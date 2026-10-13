@@ -1,4 +1,4 @@
-# GARDIO – Digital Wardrobe & AI Outfit Recommendation
+ # GARDIO – Digital Wardrobe & AI Outfit Recommendation
 
 GARDIO is a digital wardrobe application that helps users organize their clothes and discover outfit combinations more easily.
 
