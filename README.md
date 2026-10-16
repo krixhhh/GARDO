@@ -2,7 +2,7 @@
 
 GARDIO is a digital wardrobe application that helps users organize their clothes and discover outfit combinations more easily.
 
-The main idea behind this project is to make everyday outfit selection simpler by bringing wardrobe management and personalized styling together in one place.
+The main idea behind this project is to make everyday outfit selection simpler by bringing wardrobe management and personalized styling together in one place. 
 
 ## Features
 
