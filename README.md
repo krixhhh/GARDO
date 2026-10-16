@@ -66,7 +66,7 @@ GARDIO aims to help users make better use of their existing wardrobe, explore ne
 
 ## Developer
 
-Krishna Kumar
+Krishna Kumar 
 
 B.Tech Information Technology  
 SRM Institute of Science and Technology, Trichy
